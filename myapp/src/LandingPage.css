@@ -1,0 +1,33 @@
+.landing-page-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .action-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin-right: 10px;
+    cursor: pointer;
+  }
+  
+  .action-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .employee-name {
+    font-weight: bold;
+  }
+  
+  .employee-role {
+    margin-left: 10px;
+    font-style: italic;
+  }
+  
+  .employee-thoughts {
+    margin-left: 10px;
+    color: #555;
+  }
+  
